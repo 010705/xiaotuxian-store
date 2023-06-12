@@ -8,9 +8,9 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-####首页
+首页
 ![image](https://github.com/010705/xiaotuxian-store/assets/128562396/aaf11074-4db7-4513-adab-966f021479bf)
 
-####分类
+分类
 ![image](https://github.com/010705/xiaotuxian-store/assets/128562396/4fc5bf33-e154-4dea-8a17-e14eb0dd3b0e)
 
